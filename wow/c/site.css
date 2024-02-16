@@ -1,0 +1,722 @@
+html, body {background:#7b6a4b url(/wow/i/bg.jpg?1) top center;color:#000}
+h1, h2, h3, h4, h5, h6 {color:#000;font-weight:normal}
+a {color:#233587;text-decoration:none}
+a:hover, a.hov {color:#000;text-decoration:underline}
+a:hover span {text-decoration:underline}
+a img {border-color:#c7ab7b}
+a:hover img {border-color:#000}
+img {border:0}
+abbr {cursor:help}
+ul {list-style-type:square}
+hr {border-color:#c7ab7b}
+
+#shadows * {background:#c7ab7b !important}
+#logo a {background:url(/wow/i/wow-logo.png) right no-repeat;width:320px}
+#wrapper, #featured-promos .cont {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg);border-color:#c7ab7b}
+#row-top {background:#e0c18a url(/wow/i/parchment/parch-dark.jpg)}
+#cols {border-top:1px solid #c7ab7b}
+#col-right {background:#e0c18a url(/wow/i/parchment/colright.jpg)}
+footer .block-content {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg)}
+footer .footer-featured-sites ul li a, footer .footer-zam .footer-social .footer-callout, footer .footer-zam .footer-social-links
+    {background:#e0c18a url(/wow/i/parchment/colright.jpg) -1px 0}
+
+#menu_horiz {background:#f4e8cf url(/wow/i/parchment/parch-light.jpg);border-color:#c7ab7b}
+#nav div {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border-color:#c7ab7b}
+#nav div ul {*background:#efddbb url(/wow/i/parchment/parch-medlight.jpg)}
+#menu_horiz .cols-2 > ul, #menu_horiz .cols-3 > ul {border-color:#c7ab7b}
+#nav a, #user-login a {color:#776d3c;border-color:#c7ab7b}
+#nav a:hover, #user-login a:hover {color:#000}
+#nav li:hover > a {border-left-color:#f4e8cf}
+#nav li:hover {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg)}
+#nav div li:hover {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg) !important}
+#nav div a {border-top:1px solid #fff}
+#nav div li:hover > a {border-top-color:#f4e8cf}
+#menu_horiz li li.has-sub > a {background:url(/wow/i/parchment/arrow-right-spaced.png) right no-repeat !important}
+
+#menu_horiz > li > div {left:-1px}
+#menu_horiz > li > a {border-left:1px solid #fff;border-right:1px solid #c7ab7b}
+#menu_horiz > li:first-child > a {border-left:0}
+.nc-forums {border-right:1px solid #fff}
+.nc-account-code {border-left:1px solid #c7ab7b}
+.nc-account-code > a {border-right:0 !important}
+
+#menu_horiz span.pinchar {background:url(/wow/i/wowpinnedchar_ico.gif) left no-repeat;padding-left:15px}
+#menu_horiz a.pinchar:hover {text-decoration:none}
+#menu_horiz a.pinchar:hover span {text-decoration:underline}
+
+#nav > ul > .ext > a {background:none;padding-right:17px}
+
+#footer li, #footer #footer-network {border-color:#7c7c7c}
+#footer a {color:#ccc}
+
+input.search, input.bigsearch {background:url(/wow/i/wowsearch-big.png) no-repeat;border:none;color:#a5a09d;font-family:Arial,Helvetica,sans-serif;font-size:12px;height:16px;padding:4px 5px;vertical-align:middle;width:190px}
+input.search.active, input.bigsearch.active {color:#e5e0dd}
+
+td.menuheader:last-child {background:#dec18d url(/wow/i/heading.gif);border-right:1px solid #c7ab7b}
+td.menuheader {background:#dec18d url(/wow/i/heading.gif);cursor:default;font-weight:bold;line-height:19px;padding:0 4px}
+thead td.menuheader {background:none}
+th.name, td.name {text-align:left}
+td.menuheader a {color:#000;text-decoration:none}
+td.menuheader a:hover {color:#7a694c}
+
+th.center, td.center {text-align:center !important}
+th.left, td.left {text-align:left !important}
+th.right, td.right {text-align:right !important}
+.faded {color:#b7a98e}
+.pvpcicon {height:14px;width:15px;vertical-align:middle}
+.sourceControl {float:right}
+.sourceControl b, .selected, .source {color:#7a694c;cursor:default;font-weight:bold}
+.selected {color:#333}
+.warning {color:#f00}
+
+.front .box .header, .front .box .subhead, #game-column .box .header, #game-column .box h3 {border-color:#c7ab7b;font-weight:bold}
+
+.story .Title h2 .StoryLink {color:#000}
+.story .Title .Byline {border-color:#c7ab7b;color:#7e6e52}
+.story .Subhead {border-color:#c7ab7b}
+.story .Preview img {border-color:#c7ab7b !important}
+
+#game-column h3 {background:#ead4ab}
+#game-column .game-news li {border-color:#c7ab7b}
+
+.IMIcont {border:0;display:inline}
+.IMIcont .vAlign {display:inline}
+.IMIcont .vAlign a img {padding:10px}
+.IMIcont .vAlign a:hover img {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg)}
+
+.tagbox {background:#edd8b0;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;clear:both;cursor:default;line-height:13px;margin:0 10px 14px 10px;padding:3px 7px}
+.tagbox img {padding:2px;vertical-align:bottom}
+.tagbox a:hover img {background:#e0c18a;border:1px solid #c7ab7b;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;padding:1px}
+.tagwrap {padding:2px 0;position:relative}
+.tagfunc {bottom:14px;display:none;left:2px;min-width:100%;position:absolute;width:55px}
+.tagfunc a {float:left;margin:0 3px 0 0}
+.tagwrap:hover .tagfunc {display:block}
+.tagbox input {margin-top:-1px}
+
+.pages span, .pages a {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border-color:#c7ab7b}
+.pages span {background:#c7ab7b}
+
+/* Icons */
+.icon-daoc, .icon-camelot {background:url(/i/icon-daoc-black.png) left no-repeat}
+.icon-ffxi {background:url(/i/icon-ffxi-black.png) left no-repeat}
+.icon-ffxiv {background:url(/i/icon-ffxiv-black.png) left no-repeat}
+.icon-tor {background:url(/i/icon-tor-dark.png) left no-repeat}
+
+.icon-sml, .icon-med, .icon-lrg {background-position:center center !important;background-repeat:no-repeat !important;cursor:default;float:left;overflow:hidden;position:relative}
+.icon-sml a, .icon-sml b, .icon-med a, .icon-med b, .icon-lrg a, .icon-lrg b {display:block;position:absolute;top:0}
+
+.icon-sml img {height:16px;left:1px;position:absolute;top:1px;width:16px}
+.icon-med img {height:32px;left:1px;position:absolute;top:1px;width:32px}
+.icon-lrg img {height:64px;left:2px;position:absolute;top:2px;width:64px}
+
+.icon-sml {background:url(/wow/i/noicon-sml.gif);height:18px;width:18px;margin:1px}
+.icon-sml a, .icon-sml b {background:url(/wow/i/parchment/border-sml.png);height:18px;width:18px}
+.icon-med {background:url(/wow/i/noicon-med.gif);height:34px;width:34px}
+.icon-med a, .icon-med b {background:url(/wow/i/parchment/border-med.png);height:34px;width:34px}
+.icon-lrg {background:url(/wow/i/noicon-lrg.gif);height:68px;width:68px}
+.icon-lrg a, .icon-lrg b {background:url(/wow/i/parchment/border-lrg.png);height:68px;width:68px}
+
+.icon-sml a:hover, .icon-med a:hover, .icon-lrg a:hover {text-decoration:none}
+.icon-count {bottom:0;color:#000;font:bold 13px Arial,Helvetica,sans-serif;position:absolute;right:0}
+.icon-count, .icon-count span {text-decoration:none !important}
+.icon-count span {left:2px;position:absolute;top:0}
+.icon-count span span {left:0;top:2px}
+.icon-count span span span {left:-2px;top:0}
+.icon-count span span span span {color:#fff;left:1px;top:-1px}
+.icon-sml .icon-count {font:bold 10px Verdana,Arial,Helvetica,sans-serif;margin:2px 3px}
+.icon-med .icon-count {margin:3px 5px}
+.icon-lrg .icon-count {margin:6px 8px}
+
+.datatable .icon-sml a, .datatable .icon-sml b, .databox .icon-sml a, .databox .icon-sml b {background:url(/wow/i/parchment/border-sml-light.png)}
+.datatable .icon-med a, .datatable .icon-med b, .databox .icon-med a, .databox .icon-med b {background:url(/wow/i/parchment/border-med-light.png)}
+.datatable .icon-lrg a, .datatable .icon-lrg b, .databox .icon-lrg a, .databox .icon-lrg b {background:url(/wow/i/parchment/border-lrg-light.png)}
+
+.icon-sml a:hover, .icon-med a:hover, .icon-lrg a:hover {background-position:bottom}
+
+/* Wowhead style icons */
+/*
+.icon-sml img {height:22px;left:2px;position:absolute;top:2px;width:22px}
+.icon-med img {height:40px;left:2px;position:absolute;top:2px;width:40px}
+.icon-lrg img {height:64px;left:2px;position:absolute;top:2px;width:64px}
+.icon-sml {height:26px;width:26px}
+.icon-sml a, .icon-sml b {background:url(/wow/i/parchment/wh-border-sml.png);height:26px;width:26px}
+.icon-med {height:44px;width:44px}
+.icon-med a, .icon-med b {background:url(/wow/i/parchment/wh-border-med.png);height:44px;width:44px}
+.icon-lrg {height:68px;width:68px}
+.icon-lrg a, .icon-lrg b {background:url(/wow/i/parchment/wh-border-lrg.png);height:68px;width:68px}
+.datatable .icon-sml a, .datatable .icon-sml b, .databox .icon-sml a, .databox .icon-sml b {background:url(/wow/i/parchment/wh-border-sml-light.png)}
+.datatable .icon-med a, .datatable .icon-med b, .databox .icon-med a, .databox .icon-med b {background:url(/wow/i/parchment/wh-border-med-light.png)}
+.datatable .icon-lrg a, .datatable .icon-lrg b, .databox .icon-lrg a, .databox .icon-lrg b {background:url(/wow/i/parchment/wh-border-lrg-light.png)}
+.icon-sml .icon-count {font:bold 10px Verdana,Arial,Helvetica,sans-serif;margin:3px 4px}
+.icon-med .icon-count {margin:4px 6px}
+.icon-lrg .icon-count {margin:6px 8px}
+*/
+
+.wowtt {border-collapse:collapse;color:#fff;font:12px Arial,Helvetica,sans-serif;min-width:150px;max-width:320px;position:relative;*width:320px}
+.wowtt td {background:url(/wow/i/tooltip.png);padding:8px 4px 1px 9px}
+.wowtt th {background:url(/wow/i/tooltip.png) top right;padding:3px}
+.wowtt .bot th {background-position:bottom left;height:6px;padding:0}
+.wowtt .bot th.right {background-position:bottom right}
+.wowtt td .right {position:absolute;right:0;text-align:right;top:inherit;white-space:nowrap}
+.wowtt div {max-width:320px;min-width:75px;position:relative}
+.wowtt .iname {font-size:14px}
+.wowtt .q0, .wowtt .greyname   {color:#9d9d9d}
+.wowtt .q1, .wowtt .whitename  {color:#fff}
+.wowtt .q2, .wowtt .greenname, .wowtt .greentext, .wowtt .itemeffectlink {color:#1eff00}
+.wowtt .q3, .wowtt .bluename   {color:#0070dd}
+.wowtt .q4, .wowtt .purplename {color:#a434ee}
+.wowtt .q5, .wowtt .orangename {color:#ff8000}
+.wowtt .q6, .wowtt .redname, .wowtt .q7 {color:#e5cc80}
+.wowtt .yellowname {color:#aa0}
+.wowtt .goldtext {color:#ffd200}
+.wowtt .itemsetitems {padding-left:8px}
+.wowtt .hasitem {color:#ffff9c}
+.wowtt .nothave {color:#9c9e9c}
+.wowtt .referal {text-decoration:none}
+#tmpItemFrm .wowtt {margin:10px 0 0 5px}
+
+.wowitem, .questOver {background:url(/wow/i/tooltip-bg-black.png) !important;background:rgba(0,0,0,.85) !important;border:2px solid #a9a9a9 !important;border-color:#f7f6f5 #a0a09e #9c9c9a #a4a4a2 !important;-moz-border-top-colors:rgba(0,0,0,.5) #f7f6f5;-moz-border-right-colors:rgba(0,0,0,.5) #a0a09e;-moz-border-bottom-colors:rgba(0,0,0,.5) #9c9c9a;-moz-border-left-colors:rgba(0,0,0,.5) #a4a4a2;color:#fff;font-size:12px;padding:3px 5px;background-color:#222;border-radius:5px;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;min-width:150px;max-width:450px;opacity:1 !important}
+.wowitem a {color:#1eff00}
+.wowitem a:hover {color:#1eff00;text-decoration:underline}
+.wowitem tr {background-color:#222}
+/* .wowitem {font:12px Georgia, "Times New Roman", Times, serif !important} Previous Font */
+.wowitem .iname {font-size:14px}
+.datatable td.ilname {text-align:left}
+.datatable td.ilicon {border-right:none;width:30px}
+.ilname {width:226px}
+.ilname span {margin:0 5px 0 0}
+.wowitem .right, .wowitem .wowrttxt {position:absolute;text-align:right;right:3px;top:inherit}
+
+/* Database */
+
+a.icon {background-position:center center !important;background-repeat:no-repeat !important;display:block;float:left;height:68px;width:68px}
+a.icon b {background:url(/wow/i/border.png) center center no-repeat;display:block;height:68px;width:68px}
+#db-item .wowitem {float:left;max-width:400px;position:relative}
+#db-item .icon a {display:block;float:left;height:100%;width:100%}
+
+#db-item .moreactions {clear:left;line-height:1.5em;padding-top:5px}
+#db-item .moreactions img {vertical-align:text-top}
+.itemicon {height:35px;width:35px;vertical-align:middle;float:left;margin-right:5px}
+#switchable-maps a {font-weight:bold}
+#switchable-maps a.cur {color:#000;cursor:default;text-decoration:none}
+#switchable-maps div {display:none}
+#switchable-maps div.cur {display:block}
+
+.db-infobox {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;float:right;line-height:1.4em;padding:5px}
+.db-infobox.item {width:250px}
+.db-infobox img {vertical-align:bottom}
+.db-infobox img.zamicon {vertical-align:middle}
+.db-infobox form, .db-infobox form div {display:inline}
+.db-infobox .screenshot {padding-top:5px;text-align:center}
+.db-infobox.item .screenshot img {max-height:158px;max-width:240px}
+
+#db-item .statdiff {padding:3px}
+#db-item .statdiff ul {font-size:11px;font-weight:bold;list-style-type:none;padding:0}
+#db-item .statdiff ul li {margin:7px 0 0 0}
+#db-item .statdiff ul ul {font-weight:normal;list-style-type:square;padding:0 0 0 1.25em}
+#db-item .statdiff ul ul li {color:#7a694c;margin:0}
+#db-item .statdiff .neg {color:#c00}
+#db-item .statdiff .plus {color:#090}
+#youhave {font-weight:bold;padding:5px 5px 5px 0;margin:5px 5px 5px 0;float:left}
+
+.statdiff {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;padding:5px;float:left;margin-right:5px}
+.statdiff ul {margin-top:0px;margin-bottom:0px}
+
+.path {background:url(/wow/i/parchment/arrow-down.gif) 0 999px no-repeat}
+.path li {background:url(/wow/i/parchment/arrow-right.gif) 3px 4px no-repeat}
+.path ul {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b}
+.path ul a {color:#473d2c}
+.path ul a:hover {color:#000}
+.path b {background:url(/wow/i/check.png) 0 999px no-repeat}
+.path .cur a {background:url(/wow/i/check.png) 1px 6px no-repeat}
+.path .has-sub:hover {background:url(/wow/i/parchment/arrow-down.gif) left no-repeat}
+.path .has-sub:hover > a {color:#000}
+
+.datatable {border:1px solid #c7ab7b}
+.datatable caption {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border-color:#c7ab7b}
+.datatable thead {background:#dec18d url(/wow/i/heading.gif)}
+.datatable th {background:#dec18d url(/wow/i/heading.gif);border-color:#c7ab7b;cursor:default;font-size:13px;font-weight:bold;line-height:19px;padding:0 4px;white-space:nowrap}
+
+.datatable th a {color:#000;text-decoration:none}
+.datatable th a:hover {color:#7a694c}
+.datatable tbody {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg)}
+.datatable td {border:solid #c7ab7b;border-width:0 1px 1px 0;padding:4px}
+.datatable td em, .datatable td small {color:#947f5c;display:block;font-size:11px;font-style:normal}
+.datatable td small {display:inline}
+.datatable tr:hover td {background:#f1e3c5}
+.datatable.no-hover tr:hover td, .datatable tr.no-hover:hover td {background:none}
+
+.datatable .smallicon {float:left}
+.datatable i.smallicon {background-position:center !important;background-repeat:no-repeat !important;display:block;height:33px;position:relative;width:33px}
+.datatable i.smallicon img {height:30px;padding:1px 2px 2px 1px;width:30px}
+.datatable i.smallicon b {background:url(/wow/i/smallborder.png) top center no-repeat;display:block;height:33px;left:0;position:absolute;top:0;width:33px}
+a:hover i.smallicon b {background:url(/wow/i/smallborder.png) bottom center no-repeat}
+tbody tr.hov:hover {background:#efddba;cursor:pointer}
+
+#livetable td {border-right:0}
+#livetable tr:hover td {background:none}
+#livetable .lr {background:#f1e2c4}
+#livetable tr.firstrow td {border-bottom:0}
+
+.s2-lr, #twitter-feed li {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg)}
+.s2-dr {background:url(/i/black-05.png)}
+#twitter-feed li:nth-child(even) {background:url(/i/black-05.png)}
+.link-list .s2-lr, .link-list .s2-dr, .list .s2-lr, .list .s2-dr, #rss-feed .s2-lr, #rss-feed .s2-dr {border-color:#c7ab7b !important}
+
+#view3dcontrols {position:relative;width:610px}
+#view3dcontrols select {*font-size:9px !important;*height:16px}
+#view3dcontrols span {cursor:default}
+#view3dcontrols #view3d-Controls {display:none;right:0;position:absolute;top:0}
+#view3dcontrols #view3d-Controls.hidden {display:none !important}
+#view3dcontrols option.none {color:#999}
+#view3dcontrols option.pinned {font-weight:bold}
+#view3dcontrols #view3d-Flash a {padding:0 1px}
+#view3dcontrols #view3d-Java a {padding-left:2px}
+#view3dcontrols #view3d-Female a {padding:0 2px 0 3px}
+#view3dcontrols #view3d-Male a {padding:0 2px 0 1px}
+#view3dcontrols #view3d-Gender {margin-right:56px}
+#view3d {background:#f4e8cf;border:1px solid #c7ab7b;cursor:default;height:400px;margin:5px 0 0 0;padding:5px;width:600px}
+
+table.spell {width:800px;border:1px solid #c7ab7b;background:#f4e8cf url(../i/parchment/parch-light.jpg)}
+table.spell td {border:0;padding:3px}
+table.spell td.slabel {width:140px;font-weight:bold}
+td.sicon {padding:3px 0 3px 3px;width:34px;border-right:0}
+.spell .rank {color:#808080;float:right;margin:-45px 0 0 0;padding:0 5px}
+.questinfo {float:left;width:240px}
+
+.wowitem a.q0, .wowitem a.q1, .wowitem a.q2, .wowitem a.q3, .wowitem a.q4, .wowitem a.q5, .wowitem a.q6, .wowitem a.q7 {font-weight:normal}
+
+.q0, a.q0, a.q0:hover, .greyname             {color:#808080} /* Poor */
+.q1, a.q1, a.q1:hover, .whitename            {color:#000}    /* Common */
+.q2, a.q2, a.q2:hover, .greenname, .greentext, .itemeffectlink {color:#0b0}    /* Uncommon */
+.q3, a.q3, a.q3:hover, .bluename             {color:#0068ff} /* Rare */
+.q4, a.q4, a.q4:hover, .purplename           {color:#8000ff} /* Epic */
+.q5, a.q5, a.q5:hover, .orangename           {color:#ff8000} /* Legendary */
+.q6, a.q6, a.q6:hover, .q7, a.q7, a.q7:hover {color:#9f8962} /* Artifact */
+.redname    {color:#f00}
+.goldtext {color:#ffd200}
+.yellowname {color:#aa0}
+
+.wowtt .q0, .wowtt .greyname   {color:#9d9d9d} /* Poor */
+.wowtt .q1, .wowtt .whitename  {color:#fff}    /* Common */
+.wowtt .q2, .wowtt .greenname, .greentext, .itemeffectlink {color:#1eff00} /* Uncommon */
+.wowtt .q3, .wowtt .bluename   {color:#0070dd} /* Rare */
+.wowtt .q4, .wowtt .purplename {color:#a434ee} /* Epic */
+.wowtt .q5, .wowtt .orangename {color:#ff8000} /* Legendary */
+.wowtt .q6, .wowtt .redname    {color:#e5cc80} /* Artifact */
+
+.wowtt a.q0:hover, .wowtt a.greyname:hover   {color:#9d9d9d !important;text-decoration:underline !important} /* Poor */
+.wowtt a.q1:hover, .wowtt a.whitename:hover  {color:#fff !important;text-decoration:underline !important}    /* Common */
+.wowtt a.q2:hover, .wowtt a.greenname:hover, a.greentext:hover, a.itemeffectlink:hover {color:#1eff00 !important;text-decoration:underline !important} /* Uncommon */
+.wowtt a.q3:hover, .wowtt a.bluename:hover   {color:#0070dd !important;text-decoration:underline !important} /* Rare */
+.wowtt a.q4:hover, .wowtt a.purplename:hover {color:#a434ee !important;text-decoration:underline !important} /* Epic */
+.wowtt a.q5:hover, .wowtt a.orangename:hover {color:#ff8000 !important;text-decoration:underline !important} /* Legendary */
+.wowtt a.q6:hover, .wowtt a.redname:hover    {color:#e5cc80 !important;text-decoration:underline !important} /* Artifact */
+
+.wowcoin {vertical-align:bottom}
+small .wowcoin, .sm .wowcoin {height:14px;width:14px}
+
+.wowitem .q1, .wowitem .whitename  {color:#fff}    /* Common */
+
+.questitemicon {float:left;height:16px;padding:2px 4px 0 0;width:16px}
+
+.quest-veryeasy, .quest-easy, .quest-medium, .quest-hard, .quest-veryhard {font-weight:bold}
+.quest-veryeasy:hover, .quest-easy:hover, .quest-medium:hover, .quest-hard:hover, .quest-veryhard:hover {color:#fff;text-decoration:none}
+.quest-veryeasy {color:#9d9d9d}
+.quest-easy {color:#40bf40}
+.quest-medium {color:#ff0}
+.quest-hard {color:#ff8000}
+.quest-veryhard {color:#f00}
+
+/***************************/
+/* TODO:Uncertain DB Stuff */
+/***************************/
+.hidden {display:none}
+.itemeffectlink:hover,.itemeffectlink {text-decoration:none}
+
+.wowover {position:absolute;top:100px;left:100px}
+
+.ilname .greyname {color:#9d9d9d !important}
+.ilname .whitename {color:#000 !important}
+.ilname .greenname, .ilname .greentext, .ilname .itemeffectlink {color:#007800 !important}
+.ilname .bluename {color:#326eff !important}
+.ilname .purplename {color:#a434ee !important}
+.ilname .orangename {color:#d17c22 !important}
+.ilname .redname {color:#f00 !important}
+
+.ilname .goldtext {color:#ffd200 !important}
+.ilname .yellowname {color:yellow !important}
+
+/***************************/
+/* END :Uncertain DB Stuff */
+/***************************/
+
+/* Zone List */
+
+#zonelist {clear:both}
+#zonelist .zone {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg);float:left;font-size:90%;height:155px;text-align:center;width:100px}
+#zonelist #Citycont .zone, #zonelist #Battlegroundcont .zone {height:auto}
+#zonelist #Outdoorcont .zone {height:140px}
+#zonelist .zone span, #zonelist .zone img {display:block;height:100px;margin:0 auto;width:100px}
+#zonelist .zone span {background:url(/wow/i/noimage.gif) center center no-repeat}
+#zonelist .zone a {text-decoration:none}
+#zonelist.smallicons .zone {height:auto !important;text-align:left;width:200px}
+#zonelist.smallicons #Instancecont .zone {height:42px !important}
+#zonelist.smallicons .zone div, #zonelist.smallicons .zone span, #zonelist.smallicons .zone img {float:left;height:32px;padding-right:5px;vertical-align:top;width:32px}
+#zonelist.smallicons .zone span {background:url(/wow/i/noimage-small.gif) center center no-repeat}
+
+/* Old Zone List */
+
+.zonelist {clear:both}
+.zonelist .zone {float:left;font-size:90%;height:155px;text-align:center;width:100px}
+.zonelist #Citycont .zone, .zonelist #Battlegroundcont .zone {height:auto}
+.zonelist #Outdoorcont .zone {height:140px}
+.zonelist .zone span, .zonelist .zone img {display:block;height:100px;margin:0 auto;width:100px}
+.zonelist .zone span {background:url(/wow/i/noimage.gif) center center no-repeat}
+.zonelist .zone a {text-decoration:none}
+.zonelist.smallicons .zone {height:auto !important;text-align:left;width:200px}
+.zonelist.smallicons #Instancecont .zone {height:42px !important}
+.zonelist.smallicons .zone div, .zonelist.smallicons .zone span, .zonelist.smallicons .zone img {float:left;height:32px;padding-right:5px;vertical-align:top;width:32px}
+.zonelist.smallicons .zone span {background:url(/wow/i/noimage-small.gif) center center no-repeat}
+
+/* Profile */
+
+#profileicons a {float:left;margin:5px}
+#profileicons a img {margin:1px;padding:5px}
+#profileicons a img.cur {background:#e0c18a url(/wow/i/parchment/parch-dark.jpg) !important;border:1px solid #947f5c !important;margin:0}
+#profileicons a:hover img {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;margin:0}
+.profile-actions {cursor:default;white-space:nowrap}
+.profile-actions img {margin:1px;padding:2px;vertical-align:middle}
+.profile-actions a:hover img {background:#fff;border:1px solid #c7ab7b;margin:0}
+.profile-border {border:2px solid #c7ab7b;margin:2px 10px 10px 2px}
+.profile-border-active {border:4px solid #000;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;margin:0 8px 8px 0}
+
+.deleteconfirmation .confirm {cursor:default;display:none;font-size:11px}
+.deleteconfirmation.confirmdelete .initial {display:none}
+.deleteconfirmation.confirmdelete .confirm {display:inline}
+
+#sigPreview {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;margin:10px;width:550px;height:150px}
+
+.mform {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg);border:1px solid #ae956c}
+.mform2 {background:#e0c18a url(/wow/i/parchment/parch-dark.jpg);border:1px solid #947f5c}
+.mform .tagbox {background:#ae956c}
+.mform2 .tagbox {background:#947f5c}
+
+.forumList caption {background:none;border:0;padding:0}
+.forumList caption a {color:#000}
+.forumMain .forumMain .msgCtrlBar {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg);border-color:#ae956c}
+.forumMainTable td {border-width:0 0 1px}
+.forumMain .forumMain {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;padding:0 10px}
+
+.msgPreview {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg);border:1px solid #ae956c}
+.msgPreview .msgWhoFrame .msgWhoNum {display:none}
+
+.msgHeaderFrame {background:#ae956c;color:#000}
+.mform2 .msgHeaderFrame {background:#947f5c}
+.msgHeaderFrame a {color:#3d3526}
+.msgHeaderFrame a:hover {color:#000}
+.msgUMex {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b}
+
+.msgQuote {background:#d4b683;border-color:#947f5c}
+.msgQuote .source {background:#c7ab7b;color:#000}
+
+/*#comments {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;padding:10px}*/
+#comments .msgCtrlBar {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg);border:1px solid #ae956c}
+#comments .msgCtrlBar:first-child {margin-top:0}
+.tbcont > .bcont > #comments {margin:-6px}
+
+.postPreviewLine-bot td {border-bottom-color:#c7ab7b !important}
+
+/* Lists */
+
+.listfilters {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;border-spacing:0;display:none;margin:5px 0 0;padding:10px}
+.listfilters table {margin-bottom:10px}
+.listfilters td {padding:0 5px 5px 0}
+
+#filter-itemquality {background:#222}
+#filter-itemquality .q0 {color:#9d9d9d} /* Poor */
+#filter-itemquality .q1 {color:#fff}    /* Common */
+#filter-itemquality .q2 {color:#1eff00} /* Uncommon */
+#filter-itemquality .q3 {color:#0070dd} /* Rare */
+#filter-itemquality .q4 {color:#a434ee} /* Epic */
+#filter-itemquality .q5 {color:#ff8000} /* Legendary */
+#filter-itemquality .q6, #filter-itemquality .q7 {color:#e5cc80} /* Artifact */
+
+/* Ranks */
+
+.rank-Scholar, .rank-Sage, .rank-Guru, .rank-Administrator {font-weight:bold}
+
+/* Admin Boxes/Panels */
+
+.admin {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;cursor:default}
+.admin a {text-decoration:none}
+.admin a:hover {text-decoration:underline}
+div.admin {padding:3px}
+table.admin {margin:0 0 0 auto}
+span.admin {background:none;border:0;margin-left:-3px;padding:3px;text-decoration:underline}
+span.admin a {text-decoration:underline}
+span.admin div {display:none}
+span.admin div img {vertical-align:middle !important}
+span.admin:hover {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:solid #c7ab7b;border-width:1px 1px 0 1px;padding:2px;text-decoration:none}
+span.admin:hover div {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;display:block;line-height:2em;padding:0 5px;position:absolute;right:5px;top:inherit}
+
+.no-banner .header-bg, .no-tower .sidebar-bg, .no-cube .block-bg {display:none !important}
+.no-banner #body {margin-top:0 !important}
+
+/* TESTING CLASSES ASDF TODO */
+
+.asdf {background:pink !important;border:1px solid red !important;color:#f00 !important;font-weight:bold !important;padding:10px !important}
+small.asdf {background:none !important;border:0 !important;color:#e0c18a !important;font-weight:normal !important;padding:0 !important}
+.temptest {display:inline !important}
+
+/* Generic */
+
+.zamicon {vertical-align:middle}
+.wowhead-icon {background:url(/i/icon-wowhead.png) left center no-repeat;line-height:16px;padding-left:18px}
+.thottbot-icon {background:url(/i/icon-thottbot.png) left center no-repeat;line-height:16px;padding-left:18px}
+
+.bcont, .no-template, #user-nav li, .box, #video-infobox, #recent-screenshots .cont {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b}
+.box .header {background:#dec18d url(/wow/i/parchment/heading-22px.jpg);height:16px;overflow:hidden}
+.tabcont {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;padding:5px}
+.ssList {float:right;background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;padding:5px;margin:5px;max-width:400px}
+.dbstats {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;padding:5px;margin:5px;float:left}
+.ssTh img {border:1px solid #000;margin:5px}
+.metadata .zamicon {text-decoration:none;vertical-align:middle}
+.lootSummary {background:#dec18d url(/wow/i/heading.gif);padding:2px;font-weight:bold}
+
+.databox {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;padding:5px}
+
+#userbox #loading {background:url(/i/loading-black.gif)}
+
+.tablist {list-style:none;margin:0;overflow:hidden;padding:10px 10px 0}
+.tablist li {background:none;border:0;border-radius:0;-moz-border-radius:0;-webkit-border-radius:0;float:left;height:26px;margin:3px 18px 0 0;padding:0;position:relative;top:0;z-index:1}
+.tablist a {background:url(/wow/i/parchment/tabs.png?1) 0 -125px;border:0;color:#61533c;*float:left;line-height:22px;padding:4px 0 98px 15px;*padding-bottom:0 !important;position:relative;border-radius:0;-moz-border-radius:0;-webkit-border-radius:0;text-decoration:none}
+.tablist a:hover {color:#000}
+.tablist b {background:url(/wow/i/parchment/tabs.png?1) -585px -125px;height:125px;*height:26px;position:absolute;right:-15px;top:0;width:15px}
+.tablist li.current {background:none}
+.tablist li.current a {background-position:0 0;color:#000;cursor:default;padding-bottom:98px}
+.tablist li.current b {background-position:-585px 0}
+.tbcont {margin-top:-1px;position:relative;top:0}
+
+/* Character lists */
+
+.charlink img {float:left;height:32px;margin-right:5px;width:32px}
+
+/* Zone Level Chart */
+
+table.zlc {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;cursor:default;border-collapse:collapse;width:100%}
+table.zlc a {display:block;text-decoration:none}
+table.zlc a:hover {text-decoration:underline}
+table.zlc td {line-height:12px;padding:2px !important;margin:0;text-align:center;width:1%}
+table.zlc tr:hover {background-color:#eddbb5}
+table.zlc .zlcb {background:url(/wow/i/parchment/pollbar.gif) left center repeat-x}
+table.zlc .zlcf {border-right:0;border-left:0}
+table.zlc .zlcfm {border-left:0}
+table.zlc .zlce {border-right:0;border-left:0}
+table.zlc .zlcen {border-left:0}
+table.zlc .zn {border-right:1px solid #c7ab7b;text-align:left;white-space:nowrap}
+table.zlc tr.zh td {background:#dec18d url(/wow/i/heading.gif);border-bottom:1px solid #c7ab7b;font-weight:bold;padding:0 2px !important;line-height:19px}
+table.zlc caption {font-size:26px;padding:0 0 3px 0}
+
+/* Image Stuff */
+.imgImg {text-align:center}
+.imgImg img {max-width:100%}
+.imgLinks {font-size:.9em}
+
+/* User postpage */
+
+#userPostList .dr {background:#f1e2c4}
+#userPostList td {border:none}
+table#userPostList {border:1px solid #c7ab7b;border-collapse:collapse}
+
+.wowchar {background:#e0c18a url(/wow/i/parchment/parch-dark.jpg);border:1px solid #c7ab7b;border-radius:30px;-moz-border-radius:30px;-webkit-border-radius:30px;padding:5px;white-space:nowrap;width:250px}
+.wowchar img.charicon {border:0;float:left;height:32px;margin-right:5px;width:32px}
+
+#userset .bcont div, #userset .databox div {margin:5px}
+
+.mini-dropdown > span {color:#233587}
+
+/* NF */
+#lightbox #lightbox-close, .forums .post-buttons a, .forums .f-read, .forums .f-unread, .forums .f-lastpost img, #forum table .f-thread, #forum table .f-newthread, #forum table .f-newreplies, #forum table .f-sticky, #forum table .f-lock, .post .head .f-rateup span, .post .head a.button, .post .head .actions a, #posts h1 small a, #messages h1 small a, .post a.post-link, .post .poster .user .name .online, .f-follow span, .f-quote span, .f-sticky span, .f-lock span, .f-move span, .f-report span, .compact .f-report span, .f-nuke span, .f-unnuke span, .f-bookmark span, .f-edit span, .f-reply span, .f-pm span, .f-delete span, .f-add span, .f-remove span, .f-ignore span, .pre-ie9 .forums .f-read, .pre-ie9 .forums .f-unread, .pre-ie9 .forums .f-lastpost img, .pre-ie9 #forum table .f-thread, .pre-ie9 #forum table .f-newthread, .pre-ie9 #forum table .f-newreplies, .pre-ie9 #forum table .f-sticky, .pre-ie9 #forum table .f-lock, .pre-ie9 .post .head .f-rateup span, .pre-ie9 .f-follow span, .pre-ie9 .f-quote span, .pre-ie9 .f-sticky span, .pre-ie9 .f-lock span, .pre-ie9 .f-move span, .pre-ie9 .f-report span, .pre-ie9 .compact .f-report span, .pre-ie9 .f-nuke span, .pre-ie9 .f-unnuke span, .pre-ie9 .f-bookmark span, .pre-ie9 .f-edit span, .pre-ie9 .f-reply span, .pre-ie9 .f-pm span, .pre-ie9 .f-delete span, .f-add span, .f-remove span, .f-ignore span, .f-message, #user #config #close, .f-gtalk, .f-aim, .f-msn, .f-icq, .f-skype, .f-fb, .f-tw, .forums #markup .help, .forums #markup .quote, .pm-inbox, .pm-sent, .pm-saved, .pm-drafts {background-image:url(/wow/i/parchment/forum-sprite.png?1)}
+
+.f-search input.inactive {color:#999}
+
+.forums .post-buttons a {background-color:#d0b88b}
+.forums .post-buttons a:hover {background-color:#e8cd9b}
+.forums .post-buttons a span {color:#000}
+.forums .post-buttons a:hover span {color:#000}
+.forums .post-buttons a:active:hover {background-color:#c8ac77}
+.forums .post-buttons a.disabled-button {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg) !important;border:1px solid #c7ab7b}
+.forums .post-buttons a.disabled-button span {color:#333}
+#posts h1 small a, #messages h1 small a {background-color:#d1b98c;color:#000 !important}
+#posts h1 small a:hover, #messages h1 small a:hover {background-color:#e8cd9b}
+#posts h1 small a:active:hover, #messages h1 small a:active:hover {background-color:#c8ac77}
+.post .head a.button, .post .head .actions a, .post a.post-link {background-color:#e8d0a3;color:#000 !important}
+.post .head a.button:hover, .post .head .actions a:hover, .post a.post-link:hover {background-color:#fee7b6}
+.post .head a.button:active:hover, .post .head .actions a:active:hover, .post a.post-link:active:hover {background-color:#e4c793}
+
+#forums table, #forum table, #messages .f-table {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border-color:#c7ab7b}
+#forums th, #forum th, #messages .f-table th {background:#dec18d url(/wow/i/header-big.jpg);border-color:#c7ab7b}
+#forums td, #forum td, #messages .f-table td {border-color:#c7ab7b}
+#forum tr, #messages .f-table tr {background:transparent}
+#forum tr:hover, #messages .f-table tr:hover {background:#f4e8cf}
+#forum .deleted {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg)}
+
+.post {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border-color:#c7ab7b}
+.post-inner {background:url(/wow/i/parchment/post.gif) repeat-y}
+.post-filtered .post-inner {background:0}
+.post .head, .post.post-filtered {background:#c7ab7b url(/i/fade-white-top-28-15.png) repeat-x;border-color:#c7ab7b}
+.post .head .info {color:#555}
+.post .head .info span span, .post .head .info .actions span, .post .head .subject {color:#000}
+.post .head .info .nukes > span {background:#cfb88f;border-color:#c7ab7b}
+.post .head .info span .details, .post .poster {background:#c7ab7b;border-color:#c7ab7b}
+.post .body .sig {color:#666}
+.post .body .sig .bar {color:#777}
+
+.post:target, .post:target ~ .post-necro {border:1px solid #947f5c;box-shadow:0 1px 5px rgba(0,0,0,0.5);-moz-box-shadow:0 1px 5px rgba(0,0,0,0.5);-webkit-box-shadow:0 1px 5px rgba(0,0,0,0.5)}
+
+.post .quote {background:#ead3a6;border-color:#947f5c}
+.post .quote .source {background:#d4b683;color:#000}
+
+.post-necro {background:#ead3a6 url(/i/fade-black-top-28-15.png) repeat-x;border:0}
+.post-necro b {text-shadow:0 0 3px #c7ab7b}
+
+.forums #colors, .forums #smilies {background:url(/i/arrow-right-gray.png) 3px 2px no-repeat;color:#233587}
+#f-jump span {background:url(/i/arrow-right-gray.png) 3px 4px no-repeat;color:#233587}
+.forums #colors:hover, .forums #smilies:hover, #f-jump:hover span {background:url(/i/arrow-down-gray.png) left no-repeat;color:#000}
+.forums #smilies:hover a {color:#000}
+
+.Scholar, .Scholar .name > a {color:#04b}
+.Sage, .Sage .name > a {color:#060}
+.Guru, .Guru .name > a {color:#b00}
+.Administrator, .Administrator .name > a {color:#d70}
+.poster .Administrator, .poster .Administrator .name > a {color:#d60}
+
+.spoiler-block > span {background:#cbbda0;background:rgba(0,0,0,.15)}
+
+.pre-ie9 .forums .post-buttons a, .pre-ie9 .post .head a.button, .pre-ie9 .post .head .actions a, .pre-ie9 #posts h1 small a, .pre-ie9 #messages h1 small a, .pre-ie9 .post a.post-link, .pre-ie9 .forums .post-buttons a b, .pre-ie9 .post .head a.button b, .pre-ie9 .post .head .actions a b, .pre-ie9 #posts h1 small a b, .pre-ie9 #messages h1 small a b, .pre-ie9 .post a.post-link b {background-image:url(/wow/i/parchment/forum-buttons.png)}
+
+/* Wiki */
+.wiki {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border-color:#c7ab7b}
+.wiki-nav {background:#ead3a6 url(/wow/i/parchment/wikiheader.jpg);border-bottom:1px solid #c7ab7b;cursor:default}
+.wiki-nav .cur, .wiki-nav .tools:hover {background:#e0c18a url(/wow/i/parchment/wikiheader-hover.jpg) -72px 0}
+.wiki-nav .cur a, .wiki-nav .tools > a {color:#000}
+.wiki-nav .tools > a {background:url(/wow/i/parchment/arrow-down.gif) 46px 10px no-repeat}
+.wiki-nav .tools ul {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg);border:1px solid #c7ab7b;right:-1px}
+.wiki-cats {border:1px solid #c7ab7b;background:#ead3a6 url(/wow/i/parchment/parch-med.jpg)}
+td.del {color:#000;background:#ffa}
+td.add {color:#000;background:#cfc}
+td.context {color:#000;background:#eee}
+.wheader {border-bottom:1px solid #c7ab7b}
+.toc {border:1px solid #c7ab7b;background:#ead3a6 url(/wow/i/parchment/parch-med.jpg);width:250px;margin:10px;float:right}
+.wframe {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg);border:1px solid #c7ab7b}
+ol.references > li:target {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg)}
+.darkbg {background:#debf88;border-color:#483718;color:#483718}
+.medbg {background:#efd8ac;border-color:#483718;color:#483718}
+.lightbg {background:#f4e8d0;border-color:#483718;color:#483718}
+.lightbg th {background-color:#ffdfaa}
+.infobox {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg);border:1px solid #c7ab7b;margin:0 0 1em 1em;color:#483718}
+.infobox caption {font-size:150%;font-weight:bold}
+.infobox th {background-color:#debf88}
+.gametag {background:#efd8ac;border:1px solid #c7ab7b;color:#483718;border-radius:10px !important;-moz-border-radius:10px !important;-webkit-border-radius:10px !important;float:right;margin:.5em;padding:.1em}
+.gametag td {text-align:right}
+.creditlt a {color:#00f}
+.creditdk a {color:#06f}
+.opaque_bigthumb {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg);border-color:#c7ab7b !important;color:#000}
+.wiki-recessed {background-color:#debf88;border-color:#c7ab7b}
+
+table.pager {cursor:default;width:100%;border-collapse:collapse;font-size:12px}
+table.pager a {text-decoration:none}
+table.pager td:first-child {text-align:left;width:100px}
+table.pager td:last-child {text-align:right;width:100px}
+
+.qrewardbox {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;float:left;height:44px;margin:5px;min-width:180px;padding:5px;position:relative;white-space:nowrap}
+.qrewardbox .sm {display:block;padding:4px 0 0}
+.qrewardbox .sm img {padding:0 1px;vertical-align:text-bottom}
+
+table.isearchopts {border:1px solid #c7ab7b !important}
+table.isearchopts td {border:none !important;padding:1px 5px 1px 5px !important}
+
+.themesel {margin:10px 5px 5px 5px}
+.themesel.active {border:5px solid #c7ab7b;margin:5px 0 0 0}
+
+/* Debug Block */
+#dbgReport {color:#fff;padding:10px 25px 25px 25px}
+#dbgReport table {border:solid #c7ab7b;border-width:1px 0 0 1px;border-collapse:collapse;color:#000;margin:15px 0}
+#dbgReport thead {background:#dec18d url(/wow/i/heading.gif)}
+#dbgReport th:last-child {border-right:1px solid #c7ab7b}
+#dbgReport th {background:#dec18d url(/wow/i/heading.gif);padding:0 4px;line-height:19px}
+#dbgReport th a {color:#000;text-decoration:none}
+#dbgReport th a:hover {color:#7a694c}
+#dbgReport tbody {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg)}
+#dbgReport td {border:solid #c7ab7b;border-width:0 1px 1px 0;padding:4px}
+
+ul.ma {background:#f4e8cf}
+li.ma {background:#c7ab7b}
+ul.ma, li.ma {border-color:#c7ab7b !important;border-radius:0 !important;-moz-border-radius:0 !important;-webkit-border-radius:0 !important}
+
+/* Dialogue */
+#dialogue-screen {background:#ead3a6}
+#dialogue-cont {width:424px}
+#dialogue-cont .cont {background:#efddbb url(/wow/i/parchment/parch-medlight.jpg);border:1px solid #c7ab7b;border-radius:0;-moz-border-radius:0;-webkit-border-radius:0}
+#dialogue-shadow {border-radius:0;-moz-border-radius:0;-webkit-border-radius:0;width:424px}
+
+#notifications {background:#f4e8cf url(/wow/i/parchment/parch-light.jpg);border-bottom:1px solid #c7ab7b;color:inherit}
+#notifications a {color:#233587}
+#notifications a:hover {color:#000}
+
+/* Maps */
+.wowmap {border:2px solid #c7ab7b;float:left;margin:10px 0;position:relative}
+.wowmap .bcont {border:0}
+.point {position:absolute}
+div.point {background:url(/wow/i/map-pins.png);height:11px;margin:-3px -2px -2px -3px;overflow:hidden;width:11px;z-index:1}
+div.point:hover {background:url(/wow/i/map-pins.png) -22px -11px}
+.medmap div.point {margin:-3px}
+.lrgmap div.point {margin:-1px 0 0 -1px}
+img.point {z-index:1}
+#zoomin, #zoomout {border:0;position:absolute;cursor:pointer;left:15px !important;top:15px !important;z-index:1}
+#zoomout {top:35px !important}
+#tips {background:url(/wow/i/tooltip-bg-black.png);background:rgba(0,0,0,.85);border:2px solid #a9a9a9;border-color:#f7f6f5 #a0a09e #9c9c9a #a4a4a2;-moz-border-top-colors:rgba(0,0,0,.5) #f7f6f5;-moz-border-right-colors:rgba(0,0,0,.5) #a0a09e;-moz-border-bottom-colors:rgba(0,0,0,.5) #9c9c9a;-moz-border-left-colors:rgba(0,0,0,.5) #a4a4a2;color:#fff;cursor:default;display:none;font-size:12px !important;padding:3px 5px;border-radius:5px;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;min-width:150px;max-width:450px;opacity:1 !important;position:absolute;z-index:99}
+#tips small {color:#aaa}
+#tips:hover {display:none}
+
+#class-tabbed .tablist {padding-top:0}
+
+#featured-news {background:#ead5ae}
+#featured-news .tablist {background:#ead5ae url(/wow/i/parchment/featured-selector.jpg)}
+#featured-news .tablist li {height:auto}
+#featured-news .tablist a img {border-color:#000 !important}
+#featured-news .tablist .current a img {border-color:#c7ab7b !important;box-shadow:0 0 5px #000;-moz-box-shadow:0 0 5px #000;-webkit-box-shadow:0 0 5px #000}
+#featured-news .tablist .current span {background:none}
+#featured-news .story a {border-color:#c7ab7b}
+#featured-news .story a var {color:#ead3a6}
+#featured-news .story a:hover var {color:#fff}
+
+.poll-results div {background:#efddba;background:rgba(234,211,166,.5)}
+.poll-results var {background:#e0c18a url(/wow/i/parchment/parch-dark.jpg)}
+
+.ratingstars b, .ratingstars-static b, .ratingstars.ratingstars-static:hover b {background:url(/i/stars-dark-blue.png) bottom left no-repeat}
+.ratingstars:hover b, .ratingstars.rated b, .ratingstars-static.rated b {background:url(/i/stars-dark.png) bottom left no-repeat}
+
+.imaged-list a span, .video-list .video-link b, #mini-features a, #countdown-clock span, #countdown-clock a:hover span {border-color:#c7ab7b}
+.blocklink {border-color:#a99269}
+
+#twitter-feed li, .link-list .cont a, #rss-feed .cont a, #game-column .game-news li, #narrow-featured-news li {border-color:#c7ab7b !important}
+
+.video-list .video-delete {background:#ead3a6 url(/wow/i/parchment/parch-med.jpg) top right;color:#000}
+.video-list .video-delete strong {color:red}
+.video-list .video-delete:hover b {background:red;color:#fff}
+
+#recent-searches a:first-child {margin-top:0}
+
+#recent-screenshots, #recent-screenshots .header {background:none;border:0;margin:0}
+
+#network, #lang span, #theme span, #network span, #lang i, #theme i, #lang:hover b, #theme:hover b, #header-misc em, #header-misc var, #header-misc li, #lang li.divider, #theme li.divider, #network li.divider, #network a {background-image:url(/wow/i/header-dropdowns.png?8) !important}
+#lang ul, #theme ul, #lang em, #theme em, #lang var, #theme var {width:116px}
+#lang i, #theme i {background:url(/wow/i/header-dropdowns.png?8) -274px 0 !important}
+
+#wowhead-redir {background:#000 url(/wow/i/wh-cata.jpg) 10px 10px no-repeat;-moz-border-radius:6px;color:#ccc;font-size:16px;line-height:1.4em;min-height:147px;padding:25px 22px 19px 330px;position:relative}
+#wowhead-redir .logo {display:block;height:147px;left:32px;position:absolute;top:22px;width:267px}
+#wowhead-redir h1 {color:#fff;margin-top:0}
+#wowhead-redir a {color:#ffd100;text-decoration:underline}
+#wowhead-redir a:hover {color:#fff}
